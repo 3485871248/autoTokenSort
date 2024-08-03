@@ -1,0 +1,2 @@
+# autoTokenSort
+非常简单的将Tzi输出的Token自动转为正常格式
